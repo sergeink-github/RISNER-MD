@@ -1,4 +1,4 @@
-**🧚‍♀️RISNER MD**
+ **🧚‍♀️ 𝐐𝐔𝐄𝐄𝐍 𝐌𝐈𝐊𝐔 𝐌𝐃**
 
 
 </p> <p align="center">
@@ -113,6 +113,5 @@ jobs:
  ### WHATSAPP CHANNLE 👇
  <p align="left">
 <a href='https://whatsapp.com/channel/0029VaxrDLEG3R3dsKW2Un2Z' target="_blank"><img alt='WhatsApp Channel' src='https://img.shields.io/badge/-WhatsApp Channel-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
-
 
 
